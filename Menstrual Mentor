@@ -1,0 +1,29 @@
+#usr/bin/env python3
+
+import random
+
+str1 = ["cramps", "pain"]
+str2 = ["home remedy", "to do", "medicine"]
+str3 = ["how to", "tutorial", "use"]
+str4 = ["tampon", "divacup","pad"]
+
+print ("Hey sis!")
+
+question = input("Do you need my help today [Y/N]")
+if question == "n"
+    print("no prob! check out our insights and make an impact today!")
+
+if question == "y"
+    print("How can I help you?")
+
+quote = "I'm having really bad cramps, any home remedies?"
+
+result = quote.find(str1; str2)
+str.find(sub[, start[, end]] )
+print("You can drink ginger tea, try a heating pad, if you don't have one, you can make one! Check out this DIY)
+
+quote = "I don't know how to use a tampon can you help me?"
+
+result = quote.find(str3.str4)
+str.find(sub[,start[,end]])
+print("of course! It's not as confusing as it seems, check out this DIY)
