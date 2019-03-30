@@ -32,7 +32,7 @@ a:hover, a:active {
 <body>
 
 
-<a href="https://dariacoffield.wixsite.com/periodt/insight" target="_blank">Explore</a>
+<a href="https://dariacoffield.wixsite.com/periodt" target="_blank">Explore</a>
 
 </body>
 </html>
