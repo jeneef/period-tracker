@@ -1,21 +1,38 @@
-# period-tracker
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
+<html>
+<body style="background-color:white;">
 <head>
-    <!--http://wwww.periodt.com -->
+    <meta charset="utf-8">
+    <meta name="viewpor" content="width=device-width, intitial-scale=1">
     <title>Periodt</title>
-    <link href="shoppingcart.css" rel="stylesheet" type="text/css" />
-    <script src="shoppingcart.js" type="text/javascript"></script>
-    <script>
-        var scart = new shoppingcart();
-        scart.Paypal.business = "periodt@paypal.com";
-        scart.inventory.Add("ORGANICCOTTONPADS", "Organic Cotton Pad (Sumi-e)", "15.99"," Organic Cotton Pads (Sumi-e)" http://wwww.periodt.com/yonishop/organic-cotton-pads.jpg)
-    </script>
+</head>
+
+<body>
+    <h1 style="text-align:center;font-family:verdna;color:red;font-size:600%;";>Periodt.</h1>
+    <p style="text-align:center;color:red;font-size:200%;">Silencing the stigma.</p>
+
+
+<head>
+<style>
+a:link, a:visited {
+  background-color: pink;
+  color: red;
+  padding: 20px 340px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: grey;
+}
+</style>
 </head>
 <body>
 
-<div id="ORGANICCOTTONPADS"></div>
-<div id="REUSABLEORGANICCOTTONPADS"></div>
-<div id="ORGANICCOTTONTAMPONS"></div>
-<div id="MENSTRUALCUP"></div>
-<input type="button" onclick="scart.Show" value="Show cart" />
+
+<a href="https://dariacoffield.wixsite.com/periodt/insight" target="_blank">Explore</a>
+
+</body>
+</html>
